@@ -4,8 +4,10 @@
   <artifactId>forest-core</artifactId>
   <versioning>
     <versions>
+      <version>0.0.4-SNAPSHOT</version>
+      <version>0.0.5-SNAPSHOT</version>
       <version>0.0.1-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20160620062325</lastUpdated>
+    <lastUpdated>20160630102645</lastUpdated>
   </versioning>
 </metadata>
